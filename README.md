@@ -18,6 +18,6 @@ Este repositorio contiene pruebas automatizadas usando Playwright y NodeJS  para
 
 3. cd pacs-auto 
 
-4 npm install  
+4. npm install  
 
-5 npm run test  
+5. npm run test  
