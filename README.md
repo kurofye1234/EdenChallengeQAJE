@@ -1,6 +1,6 @@
-# Playwright Tests  
+# Playwright Tests  para Eden 
 
-Este repositorio contiene pruebas automatizadas usando Playwright y NodeJS  
+Este repositorio contiene pruebas automatizadas usando Playwright y NodeJS  para la prueba de QA. Contiene una validacion de las opciones del banner y la generacion de Canvas
 
 # Requisitos  
 
@@ -15,6 +15,6 @@ Este repositorio contiene pruebas automatizadas usando Playwright y NodeJS
    git clone https://github.com/tuusuario/playwright-tests.git ](https://github.com/kurofye1234/EdenChallengeQAJE
 
 2 Navega a la carpeta del proyecto y ejecuta las pruebas:
-cd pacs-auto 
-npm install  
-npm run test  
+3 cd pacs-auto 
+4 npm install  
+5 npm run test  
